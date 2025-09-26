@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "equilibirium",
+        "nextgreaterarray"
+    ],
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "string": "cpp",
+        "iostream": "cpp"
+    }
+}
